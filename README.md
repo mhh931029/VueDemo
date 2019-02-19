@@ -1,2 +1,1 @@
-# vueDemo
-blog
+# VueDemo
